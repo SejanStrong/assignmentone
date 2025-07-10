@@ -97,7 +97,7 @@ nav li a{
 
 }
 .item-title{
-    font-size: 80px;
+    font-size: 50px;
     font-weight: bold;
     color:#4E47FF;
     
@@ -105,4 +105,32 @@ nav li a{
 .item-des{
     font-size: 20px;
     color:#000000;
+}
+.bg-foot{
+    background-color: #E5E7FF;
+}
+.footer-colum{
+    font-size: 97px;
+    font-weight: bold;
+    color:#000000;
+}
+footer{
+    padding: 130px 230px;
+    display: flex;
+    gap:100px;
+
+}
+.footer-colum{
+    width: 50%;
+}
+footer input[type="text"], footer input[type="email"], footer textarea{
+    height: 64px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border: none;
+
 }
