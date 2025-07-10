@@ -43,6 +43,7 @@ nav li a{
     border: none;
     padding:12px 36px;
     border-radius: 3px;
+    align-items: center;
 }
 .banner-des{
     font-size: 65px;
@@ -70,5 +71,23 @@ nav li a{
 }
 .action-content{
     max-width: 580px;
+
     
+}
+.act-pic{
+    width: 500px;
+    border-radius: 5px;
+    
+}
+.pro-title{
+    color: #252432;
+    font-weight: bold;
+    font-size: 38px;
+}
+.bg-sec{
+    background-color: #E5E7FF;
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 130px 150px;
+    text-align: center;
 }
