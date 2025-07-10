@@ -13,6 +13,9 @@ nav{
     margin: 50px 250px;
     font-size: 20px;
 }
+.header{
+    background-image: url("/B12A01-landing-launchpad/Assets/Hero-bg.png");
+}
 .dark{
     color: #4E47FF;
 }
@@ -41,4 +44,7 @@ nav li a{
 .banner-des{
     font-size: 65px;
     font-weight: bold;
+}
+.banner{
+    margin: 0 90px 0 250px;
 }
