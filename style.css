@@ -1,0 +1,32 @@
+/*nav style*/
+
+.dm-sans-My{
+  font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+.dark{
+    color: #4E47FF;
+}
+.dark-1{
+    color:white;
+}
+
+.nav-title{
+    font-weight: 800;
+    font-size: 35px;
+}
+nav ul li{
+    list-style:none;
+}
+nav li a{
+    text-decoration:none;
+    font-size: 16px;
+}
