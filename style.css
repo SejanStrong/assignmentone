@@ -15,11 +15,14 @@ nav{
 }
 .header{
     background-image: url("/B12A01-landing-launchpad/Assets/Hero-bg.png");
+    
 }
 .dark{
     color: #4E47FF;
 }
- 
+ .banner-content{
+    margin: 0 auto;
+ }
 
 .nav-title{
     font-weight: 800;
@@ -47,4 +50,25 @@ nav li a{
 }
 .banner{
     margin: 0 90px 0 250px;
+}
+
+/*action*/
+
+.action-grt{
+    font-weight:bold;
+    font-size: 45px;
+    color:#252432;
+
+}
+.action-des{
+  color: #252432;  
+}
+.hero{
+   display: flex;
+    justify-content: space-between;
+    margin: 0 35px 0 230px;
+}
+.action-content{
+    max-width: 580px;
+    
 }
