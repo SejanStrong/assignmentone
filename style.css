@@ -17,9 +17,12 @@ nav{
     background-image: url("/B12A01-landing-launchpad/Assets/Hero-bg.png");
     
 }
+
 .dark{
     color: #4E47FF;
 }
+
+
  .banner-content{
     margin: 0 auto;
  }
@@ -45,13 +48,12 @@ nav li a{
     border-radius: 3px;
     align-items: center;
 }
+
 .banner-des{
     font-size: 65px;
     font-weight: bold;
 }
-.banner{
-    margin: 0 90px 0 250px;
-}
+
 
 /*action*/
 
@@ -141,10 +143,61 @@ footer input[type="text"], footer input[type="email"], footer textarea{
 }
 
 .card-container{
+
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
+    gap:10px;
+
 }
+.card{
+
+    border: 2px solid lavenderblush;
+     border-radius: 10px;
+    padding: 10px;
+    box-shadow: 10px 10px 10px lightblue;
+
+    
+}
+.card-head{
+    font-size: 40px;
+    font-weight: bold;
+}
+.card h3{
+    font-size: 1.2em;
+    font-weight: 600;
+}
+
+.logo-head{
+    width: 280px;
+    height: 140px;
+    font-size: 50px;
+      color:#4E47FF;
+      max-width: 1140px;
+       margin: 0 auto;
+       margin-top: 50px;;
+
+
+}
+
+.about ul li {
+    list-style: none;
+    margin: 0 auto;
+
+  
+}
+.about li a{
+    text-decoration: none;
+    font-size: 20px;
+    color: #FFFFFF;
+
+}
+.about ul{
+    display: flex;
+
+}
+
+
 
 
  
