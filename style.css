@@ -5,8 +5,7 @@
   font-style: normal;
 }
 .banner{
-    margin-right: 100px;
-}
+    align-items: center;}
 
 
 nav{
@@ -84,6 +83,7 @@ nav li a{
 .act-pic{
     width: 500px;
     border-radius: 5px;
+    
     
 }
 .pro-title{
@@ -167,6 +167,12 @@ footer input[type="text"], footer input[type="email"], footer textarea{
 .card-head{
     font-size: 40px;
     font-weight: bold;
+}
+.card-picc{
+    border: 2px solid blue;
+    border-radius: 1px;
+    border-style: dashed;
+    
 }
 .card h3{
     font-size: 1.2em;
