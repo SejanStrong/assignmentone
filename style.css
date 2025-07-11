@@ -134,3 +134,17 @@ footer input[type="text"], footer input[type="email"], footer textarea{
     border: none;
 
 }
+
+.card h2{
+ font-size: 1.25em;
+ font-weight: 700;
+}
+
+.card-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+ 
