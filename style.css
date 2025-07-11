@@ -4,6 +4,9 @@
   font-optical-sizing: auto;
   font-style: normal;
 }
+.banner{
+    margin-right: 100px;
+}
 
 
 nav{
@@ -15,6 +18,8 @@ nav{
 }
 .header{
     background-image: url("/B12A01-landing-launchpad/Assets/Hero-bg.png");
+    background-size: 1140px;
+    
     
 }
 
